@@ -1,7 +1,7 @@
 # ML-Models
 Jupyter Notebooks of models I've made
 
-- Model 1 - XGBoost Regressor for Regression - Mini-Course Sales Forecast
+- Model 1: XGBoost Regressor for Regression - Mini-Course Sales Forecast
 
 - Model 2: Keras Sequential model for Regression - Media Campaign Cost Estimation
 
