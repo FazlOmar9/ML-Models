@@ -1,12 +1,6 @@
 # ML-Models
 Jupyter Notebooks of models I've made
 
-- Model 1: XGBoost Regressor for Regression - Mini-Course Sales Forecast
-
-- Model 2: Keras Sequential model for Regression - Media Campaign Cost Estimation
-
-- Model 3: Decision Tree Classifier for Binary Classification - Kidney Stone Prediction
-
 - CirclesDecisionBoundary: TF Keras Sequential for Classification using Relu
 
 - DTC_steel: Decision Tree Classifier - Steel Industry
@@ -26,6 +20,12 @@ Jupyter Notebooks of models I've made
 - Visualization: Matplotlib and Seaborn based visualization after preprocessing data
 
 - Minimum_Edit_Distance: Calculate min edit dist between two words with levenshtein distance
+
+- Model 1: XGBoost Regressor for Regression - Mini-Course Sales Forecast
+
+- Model 2: Keras Sequential model for Regression - Media Campaign Cost Estimation
+
+- Model 3: Decision Tree Classifier for Binary Classification - Kidney Stone Prediction
 
 - MNIST_digit_recognition: TF Keras CNN for Classification - Handwritten Digits MNIST
 
