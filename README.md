@@ -7,6 +7,8 @@ Jupyter Notebooks of models I've made
 
 - DecisionBoundary: PyTorch Model for Classification
 
+- FashionMNIST: PyTorch CNN Model for image classification
+
 - Hinglish: Fine tuned BERT model for roman hindi, english classification
 
 - IRIS_NN: Keras Sequential Classification - Iris
